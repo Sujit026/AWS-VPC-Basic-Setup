@@ -7,7 +7,6 @@ In this project, I designed and implemented a custom Virtual Private Cloud (VPC)
 VPC is a virtual private cloud   
 
 <img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/7e49d1cd-ca8a-4906-a4b5-4a230c5c55b4" />
-<img width="600" height="210" alt="image" src="https://github.com/user-attachments/assets/3eb7192a-6209-49a6-bcfc-af011e265084" />  
  
 **Subnet** : -
  
